@@ -17,6 +17,9 @@ php spar seperti berikut ini
 Fokus kita pada folder app, dimana folder tersebut adalah area kerja kita untuk 
 membuat aplikasi. Dan folder public untuk menyimpan aset web seperti css,gambar, javascript.
 ![spark](https://user-images.githubusercontent.com/56400200/122627947-33c79600-d0dd-11eb-9a16-2fcb2ba6c042.PNG)
+![lab11  9](https://user-images.githubusercontent.com/56400200/122628169-d5031c00-d0de-11eb-913c-bdf673387a63.png)
+
+
 
 
 
