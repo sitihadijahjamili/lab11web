@@ -27,6 +27,7 @@ membuat Controller Page. Buat file baru dengan nama page.php pada direktori Cont
 ![lab11  12 (2)](https://user-images.githubusercontent.com/56400200/122628335-bd786300-d0df-11eb-90ea-439eae63c772.png)
 ![lab11  13](https://user-images.githubusercontent.com/56400200/122628371-e6005d00-d0df-11eb-9024-d61dd96f8098.png)
 ![lab11  14](https://user-images.githubusercontent.com/56400200/122628469-55764c80-d0e0-11eb-89a9-6685b43921f3.png)
+![lab11  15](https://user-images.githubusercontent.com/56400200/122628513-a5551380-d0e0-11eb-8383-85ff6ee1138b.png)
 
 
 
