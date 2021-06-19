@@ -22,6 +22,7 @@ membuat aplikasi. Dan folder public untuk menyimpan aset web seperti css,gambar,
 Untuk mengetahui route yang ditambahkan sudah benar, buka CLI dan jalankan 
 perintah berikut.php spark routes
 ![Lab11  10](https://user-images.githubusercontent.com/56400200/122628207-0e3b8c00-d0df-11eb-8113-e62a3b64a77f.png)
+![lab11  11](https://user-images.githubusercontent.com/56400200/122628305-93bf3c00-d0df-11eb-82be-cee4c070e30b.png)
 
 
 
