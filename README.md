@@ -28,10 +28,14 @@ membuat Controller Page. Buat file baru dengan nama page.php pada direktori Cont
 ![lab11  13](https://user-images.githubusercontent.com/56400200/122628371-e6005d00-d0df-11eb-9024-d61dd96f8098.png)
 ![lab11  14](https://user-images.githubusercontent.com/56400200/122628469-55764c80-d0e0-11eb-89a9-6685b43921f3.png)
 ![lab11  15](https://user-images.githubusercontent.com/56400200/122628513-a5551380-d0e0-11eb-8383-85ff6ee1138b.png)
+Buat file css pada direktori public dengan nama style.css (copy file dari praktikum 
+lab4_layout.
 ![lab11  16](https://user-images.githubusercontent.com/56400200/122629463-68404f80-d0e7-11eb-9904-e9033127f909.png)
 <img width="363" alt="lab11  17 (2)" src="https://user-images.githubusercontent.com/56400200/122629528-df75e380-d0e7-11eb-9650-923bd8424112.png">
 <img width="466" alt="lab11  17  1" src="https://user-images.githubusercontent.com/56400200/122629624-9f633080-d0e8-11eb-8625-da20cf039ec6.png">
 <img width="307" alt="lab11  18" src="https://user-images.githubusercontent.com/56400200/122629684-054fb800-d0e9-11eb-8552-400ca89f4cdc.png">
+<img width="890" alt="lab11  19" src="https://user-images.githubusercontent.com/56400200/122629707-2dd7b200-d0e9-11eb-8c14-93aeeb6acb49.png">
+
 
 
 
