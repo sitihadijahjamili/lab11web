@@ -12,6 +12,7 @@ Perintah yang dapat dijalankan untuk memanggil CLI Codeigniter adalah:
 php spar seperti berikut ini
 ![lab11  5](https://user-images.githubusercontent.com/56400200/122627589-a71bd880-d0da-11eb-8127-c7e32e74593a.png)
 ![lab11  6](https://user-images.githubusercontent.com/56400200/122627745-adf71b00-d0db-11eb-9eb3-7ee6df38c08c.png)
+![lab11  7](https://user-images.githubusercontent.com/56400200/122627781-fb738800-d0db-11eb-9d7d-e3240640ee5e.png)
 
 
 
