@@ -24,6 +24,8 @@ perintah berikut.php spark routes
 ![Lab11  10](https://user-images.githubusercontent.com/56400200/122628207-0e3b8c00-d0df-11eb-8113-e62a3b64a77f.png)
 ![lab11  11](https://user-images.githubusercontent.com/56400200/122628305-93bf3c00-d0df-11eb-82be-cee4c070e30b.png)
 ![lab11  12 (2)](https://user-images.githubusercontent.com/56400200/122628335-bd786300-d0df-11eb-90ea-439eae63c772.png)
+![lab11  13](https://user-images.githubusercontent.com/56400200/122628371-e6005d00-d0df-11eb-9024-d61dd96f8098.png)
+
 
 
 
