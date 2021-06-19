@@ -11,5 +11,7 @@ Buka browser dengan alamat http://localhost/lab11_ci/ci4/public
 Perintah yang dapat dijalankan untuk memanggil CLI Codeigniter adalah:
 php spar seperti berikut ini
 ![lab11  5](https://user-images.githubusercontent.com/56400200/122627589-a71bd880-d0da-11eb-8127-c7e32e74593a.png)
+![lab11  6](https://user-images.githubusercontent.com/56400200/122627745-adf71b00-d0db-11eb-9eb3-7ee6df38c08c.png)
+
 
 
