@@ -8,4 +8,8 @@ diaktifkan. Kemudian simpan kembali filenya dan restart Apache web server.
 Unduh Codeigniter dari website https://codeigniter.com/download. Extrak file zip Codeigniter ke direktori htdocs/lab11_ci.Ubah nama direktory framework-4.x.xx menjadi ci4.
 Buka browser dengan alamat http://localhost/lab11_ci/ci4/public
 ![lab11  4](https://user-images.githubusercontent.com/56400200/122627525-34126200-d0da-11eb-9353-956d49beac23.png)
+Perintah yang dapat dijalankan untuk memanggil CLI Codeigniter adalah:
+php spar seperti berikut ini
+![lab11  5](https://user-images.githubusercontent.com/56400200/122627589-a71bd880-d0da-11eb-8127-c7e32e74593a.png)
+
 
