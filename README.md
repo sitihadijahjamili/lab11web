@@ -106,6 +106,7 @@ Buat view baru untuk halaman detail dengan nama app/views/artikel/detail.php.
 ![lab12  12 ke 2](https://user-images.githubusercontent.com/56400200/123502249-20846f80-d675-11eb-9f9c-0d0c23c3d304.PNG)
 ![lab12  12(1)](https://user-images.githubusercontent.com/56400200/123502285-70fbcd00-d675-11eb-97ce-b3865fa8eec9.PNG)
 
+![lab12 naw](https://user-images.githubusercontent.com/56400200/123503016-760f4b00-d67a-11eb-8838-ab8694dd83ff.PNG)
 Kemudian buat view untuk form tambah dengan nama form_edit.php
 ![lab12  13](https://user-images.githubusercontent.com/56400200/123502572-a9040f80-d677-11eb-9a3d-a1e7ef041b93.PNG)
 ![lab12  13(1)](https://user-images.githubusercontent.com/56400200/123502004-195c6200-d673-11eb-94ab-2143c345fe8a.PNG)
