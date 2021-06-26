@@ -82,6 +82,7 @@ dari 2000 tahun.', 'artikel-kedua');
 
 ![lab12  9](https://user-images.githubusercontent.com/56400200/123499299-f96f7300-d65f-11eb-9dd6-e46bd78bd0e9.PNG)
 ![lab12  10](https://user-images.githubusercontent.com/56400200/123499676-9c28f100-d662-11eb-88ee-a9c7c1f00e4f.PNG)
+![lab12  10 ke 2](https://user-images.githubusercontent.com/56400200/123499700-cc708f80-d662-11eb-9761-4172a500567f.png)
 
 
 
