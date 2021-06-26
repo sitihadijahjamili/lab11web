@@ -45,11 +45,13 @@ Langkah pertama yaitu aktifkan dahulu XAMPPnya
 
 Kemudian Buat Database Dengan menamakan lab_ci4; selanjutnya membuat Tabel seperti berikut ini
 ![lab12  2](https://user-images.githubusercontent.com/56400200/123498644-7e0bc280-d65b-11eb-9bd2-65e7f7b534c0.PNG)
+![lab12  3](https://user-images.githubusercontent.com/56400200/123498858-9203f400-d65c-11eb-87b2-3a3d16ce681a.PNG)
 
 Selanjutnya Konfigurasi koneksi database
 Selanjutnya membuat konfigurasi untuk menghubungkan dengan database server. 
 Konfigurasi dapat dilakukan dengan du acara, yaitu pada file app/config/database.php
 atau menggunakan file .env. Pada praktikum ini kita gunakan konfigurasi pada file .env. 
+
 
 
 
