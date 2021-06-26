@@ -100,6 +100,7 @@ Buat view baru untuk halaman detail dengan nama app/views/artikel/detail.php.
 ![lab12  11 ke 2](https://user-images.githubusercontent.com/56400200/123499880-05f5ca80-d664-11eb-8e2c-e9b7d3368e75.PNG)
 Membuat Routing untuk artikel detail
 ![lab12  11 ke 3](https://user-images.githubusercontent.com/56400200/123499911-30478800-d664-11eb-97c3-7e7edbf73a51.PNG)
+![lab12  11 ke 4](https://user-images.githubusercontent.com/56400200/123502077-aacbd400-d673-11eb-8f62-27e482198179.png)
 ![lab12  11(1)](https://user-images.githubusercontent.com/56400200/123502038-70623700-d673-11eb-8976-8b534da619a0.PNG)
 
 
