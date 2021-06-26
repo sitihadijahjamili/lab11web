@@ -77,6 +77,9 @@ teks-teks yang diacak. Ia berakar dari sebuah naskah sastra latin klasik dari
 era 45 sebelum masehi, hingga bisa dipastikan usianya telah mencapai lebih 
 dari 2000 tahun.', 'artikel-kedua');
 
+![lab12  8](https://user-images.githubusercontent.com/56400200/123499243-8534cf80-d65f-11eb-901a-461815e8bccc.PNG)
+
+
 
 
 
