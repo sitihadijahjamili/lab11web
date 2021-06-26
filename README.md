@@ -95,6 +95,8 @@ detail.
 
 ![lab12  11](https://user-images.githubusercontent.com/56400200/123499852-cb8c2d80-d663-11eb-8383-f449e4796a3d.PNG)
 ![lab12  11 ke 2](https://user-images.githubusercontent.com/56400200/123499880-05f5ca80-d664-11eb-8e2c-e9b7d3368e75.PNG)
+![lab12  11 ke 3](https://user-images.githubusercontent.com/56400200/123499911-30478800-d664-11eb-97c3-7e7edbf73a51.PNG)
+
 
 
 
