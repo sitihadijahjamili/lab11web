@@ -98,16 +98,13 @@ Membuat Tampilan Detail Artikel
 Membuat View Detail
 Buat view baru untuk halaman detail dengan nama app/views/artikel/detail.php.
 ![lab12  11 ke 2](https://user-images.githubusercontent.com/56400200/123499880-05f5ca80-d664-11eb-8e2c-e9b7d3368e75.PNG)
-Membuat Routing untuk artikel detail
 ![lab12  11 ke 3](https://user-images.githubusercontent.com/56400200/123499911-30478800-d664-11eb-97c3-7e7edbf73a51.PNG)
 ![lab12  11 ke 4](https://user-images.githubusercontent.com/56400200/123502077-aacbd400-d673-11eb-8f62-27e482198179.png)
 ![lab12  11(1)](https://user-images.githubusercontent.com/56400200/123502038-70623700-d673-11eb-8976-8b534da619a0.PNG)
 
 ![lab12  12](https://user-images.githubusercontent.com/56400200/123502142-1746d300-d674-11eb-9be9-3c223fdc5543.PNG)
 ![lab12  12 ke 2](https://user-images.githubusercontent.com/56400200/123502249-20846f80-d675-11eb-9f9c-0d0c23c3d304.PNG)
-
-
-
+![lab12  12(1)](https://user-images.githubusercontent.com/56400200/123502285-70fbcd00-d675-11eb-97ce-b3865fa8eec9.PNG)
 
 ![lab12  13(1)](https://user-images.githubusercontent.com/56400200/123502004-195c6200-d673-11eb-94ab-2143c345fe8a.PNG)
 
