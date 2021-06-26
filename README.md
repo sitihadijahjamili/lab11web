@@ -104,6 +104,8 @@ Membuat Routing untuk artikel detail
 ![lab12  11(1)](https://user-images.githubusercontent.com/56400200/123502038-70623700-d673-11eb-8976-8b534da619a0.PNG)
 
 ![lab12  12](https://user-images.githubusercontent.com/56400200/123502142-1746d300-d674-11eb-9be9-3c223fdc5543.PNG)
+![lab12  12 ke 2](https://user-images.githubusercontent.com/56400200/123502249-20846f80-d675-11eb-9f9c-0d0c23c3d304.PNG)
+
 
 
 
