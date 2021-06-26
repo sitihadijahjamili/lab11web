@@ -55,6 +55,10 @@ atau menggunakan file .env. Pada praktikum ini kita gunakan konfigurasi pada fil
 
 Membuat Model
 Selanjutnya adalah membuat Model untuk memproses data Artikel. Buat file nama ArtikelModel.php
+![lab12  4](https://user-images.githubusercontent.com/56400200/123498931-240bfc80-d65d-11eb-937b-844f98abf71a.PNG)
+
+Buat Controller baru dengan nama Artikel.php pada direktori app/Controllers. 
+
 
 
 
