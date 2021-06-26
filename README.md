@@ -78,6 +78,8 @@ era 45 sebelum masehi, hingga bisa dipastikan usianya telah mencapai lebih
 dari 2000 tahun.', 'artikel-kedua');
 
 ![lab12  8](https://user-images.githubusercontent.com/56400200/123499243-8534cf80-d65f-11eb-901a-461815e8bccc.PNG)
+![lab12  8(1)](https://user-images.githubusercontent.com/56400200/123499261-ad243300-d65f-11eb-8690-da25effdd9d0.png)
+
 
 
 
