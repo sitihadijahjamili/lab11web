@@ -40,7 +40,16 @@ lab4_layout.
 
 Praktikum 12 - Lanjutan Codeigniter - Pemrograman Web
 
+Langkah pertama yaitu aktifkan dahulu XAMPPnya
 ![lab12  1](https://user-images.githubusercontent.com/56400200/123498560-e8703300-d65a-11eb-8310-e251ecd8605f.PNG)
+
+Kemudian Buat Database Dengan menamakan lab_ci4; selanjutnya membuat Tabel seperti berikut ini
+![lab12  2](https://user-images.githubusercontent.com/56400200/123498644-7e0bc280-d65b-11eb-9bd2-65e7f7b534c0.PNG)
+
+Selanjutnya Konfigurasi koneksi database
+Selanjutnya membuat konfigurasi untuk menghubungkan dengan database server. 
+Konfigurasi dapat dilakukan dengan du acara, yaitu pada file app/config/database.php
+atau menggunakan file .env. Pada praktikum ini kita gunakan konfigurasi pada file .env. 
 
 
 
