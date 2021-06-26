@@ -55,17 +55,27 @@ atau menggunakan file .env. Pada praktikum ini kita gunakan konfigurasi pada fil
 
 Membuat Model
 Selanjutnya adalah membuat Model untuk memproses data Artikel. Buat file nama ArtikelModel.php
-![lab12  4](https://user-images.githubusercontent.com/56400200/123498931-240bfc80-d65d-11eb-937b-844f98abf71a.PNG)
-
-Buat Controller baru dengan nama Artikel.php pada direktori app/Controllers. 
 ![lab12  5](https://user-images.githubusercontent.com/56400200/123498967-6cc3b580-d65d-11eb-9bfa-156fa66ce8fc.PNG)
+
+Buat Controller baru dengan nama Artikel.php pada direktori app/Controllers.
+![lab12  6](https://user-images.githubusercontent.com/56400200/123498993-bad8b900-d65d-11eb-8ed6-fdc85e1d32f2.PNG)
 
 Membuat View dengan nama artikel pada direktori app/views, kemudian buat file 
 baru dengan nama index.php.
-![lab12  6](https://user-images.githubusercontent.com/56400200/123498993-bad8b900-d65d-11eb-8ed6-fdc85e1d32f2.PNG)
-Selanjutnya buka browser kembali, dengan mengakses url http://localhost:8080/artikel
-
 ![lab12  7](https://user-images.githubusercontent.com/56400200/123499037-fffceb00-d65d-11eb-8a78-508a7055cffb.PNG)
+Selanjutnya buka browser kembali, dengan mengakses url http://localhost:8080/artikel
+![lab12  7(1)](https://user-images.githubusercontent.com/56400200/123499063-29b61200-d65e-11eb-942f-727dd7461861.png)
+
+INSERT INTO artikel (judul, isi, slug) VALUE
+('Artikel pertama', 'Lorem Ipsum adalah contoh teks atau dummy dalam industri 
+percetakan dan penataan huruf atau typesetting. Lorem Ipsum telah menjadi 
+standar contoh teks sejak tahun 1500an, saat seorang tukang cetak yang tidak 
+dikenal mengambil sebuah kumpulan teks dan mengacaknya untuk menjadi sebuah 
+buku contoh huruf.', 'artikel-pertama'), 
+('Artikel kedua', 'Tidak seperti anggapan banyak orang, Lorem Ipsum bukanlah 
+teks-teks yang diacak. Ia berakar dari sebuah naskah sastra latin klasik dari 
+era 45 sebelum masehi, hingga bisa dipastikan usianya telah mencapai lebih 
+dari 2000 tahun.', 'artikel-kedua');
 
 
 
