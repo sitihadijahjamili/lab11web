@@ -65,6 +65,9 @@ baru dengan nama index.php.
 ![lab12  6](https://user-images.githubusercontent.com/56400200/123498993-bad8b900-d65d-11eb-8ed6-fdc85e1d32f2.PNG)
 Selanjutnya buka browser kembali, dengan mengakses url http://localhost:8080/artikel
 
+![lab12  7](https://user-images.githubusercontent.com/56400200/123499037-fffceb00-d65d-11eb-8a78-508a7055cffb.PNG)
+
+
 
 
 
