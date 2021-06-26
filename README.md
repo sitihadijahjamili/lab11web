@@ -93,9 +93,14 @@ detail.
 ![lab12  10 ke 2](https://user-images.githubusercontent.com/56400200/123499700-cc708f80-d662-11eb-9761-4172a500567f.png)
 ![lab12  10(1)](https://user-images.githubusercontent.com/56400200/123499720-f1650280-d662-11eb-83bf-4fdc6b2957e1.png)
 
+Membuat Tampilan Detail Artikel
 ![lab12  11](https://user-images.githubusercontent.com/56400200/123499852-cb8c2d80-d663-11eb-8383-f449e4796a3d.PNG)
+Membuat View Detail
+Buat view baru untuk halaman detail dengan nama app/views/artikel/detail.php.
 ![lab12  11 ke 2](https://user-images.githubusercontent.com/56400200/123499880-05f5ca80-d664-11eb-8e2c-e9b7d3368e75.PNG)
+Membuat Routing untuk artikel detail
 ![lab12  11 ke 3](https://user-images.githubusercontent.com/56400200/123499911-30478800-d664-11eb-97c3-7e7edbf73a51.PNG)
+
 
 
 
