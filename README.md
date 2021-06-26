@@ -80,9 +80,21 @@ dari 2000 tahun.', 'artikel-kedua');
 ![lab12  8](https://user-images.githubusercontent.com/56400200/123499243-8534cf80-d65f-11eb-901a-461815e8bccc.PNG)
 ![lab12  8(1)](https://user-images.githubusercontent.com/56400200/123499261-ad243300-d65f-11eb-8690-da25effdd9d0.png)
 
+Membuat Tampilan Detail Artikel
 ![lab12  9](https://user-images.githubusercontent.com/56400200/123499299-f96f7300-d65f-11eb-9dd6-e46bd78bd0e9.PNG)
+
+Membuat View Detail
+Buat view baru untuk halaman detail dengan nama app/views/artikel/detail.php.
 ![lab12  10](https://user-images.githubusercontent.com/56400200/123499676-9c28f100-d662-11eb-88ee-a9c7c1f00e4f.PNG)
+Membuat Routing untuk artikel detail
+
+Buka Kembali file app/config/Routes.php, kemudian tambahkan routing untuk artikel 
+detail.
 ![lab12  10 ke 2](https://user-images.githubusercontent.com/56400200/123499700-cc708f80-d662-11eb-9761-4172a500567f.png)
+![lab12  10(1)](https://user-images.githubusercontent.com/56400200/123499720-f1650280-d662-11eb-83bf-4fdc6b2957e1.png)
+
+
+
 
 
 
