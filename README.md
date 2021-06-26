@@ -61,7 +61,9 @@ Buat Controller baru dengan nama Artikel.php pada direktori app/Controllers.
 ![lab12  5](https://user-images.githubusercontent.com/56400200/123498967-6cc3b580-d65d-11eb-9bfa-156fa66ce8fc.PNG)
 
 Membuat View dengan nama artikel pada direktori app/views, kemudian buat file 
-baru dengan nama index.php. 
+baru dengan nama index.php.
+![lab12  6](https://user-images.githubusercontent.com/56400200/123498993-bad8b900-d65d-11eb-8ed6-fdc85e1d32f2.PNG)
+Selanjutnya buka browser kembali, dengan mengakses url http://localhost:8080/artikel
 
 
 
