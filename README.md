@@ -58,6 +58,10 @@ Selanjutnya adalah membuat Model untuk memproses data Artikel. Buat file nama Ar
 ![lab12  4](https://user-images.githubusercontent.com/56400200/123498931-240bfc80-d65d-11eb-937b-844f98abf71a.PNG)
 
 Buat Controller baru dengan nama Artikel.php pada direktori app/Controllers. 
+![lab12  5](https://user-images.githubusercontent.com/56400200/123498967-6cc3b580-d65d-11eb-9bfa-156fa66ce8fc.PNG)
+
+Membuat View dengan nama artikel pada direktori app/views, kemudian buat file 
+baru dengan nama index.php. 
 
 
 
