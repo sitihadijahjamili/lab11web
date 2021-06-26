@@ -38,6 +38,12 @@ lab4_layout.
 
 
 
+Praktikum 12 - Lanjutan Codeigniter - Pemrograman Web
+
+![lab12  1](https://user-images.githubusercontent.com/56400200/123498560-e8703300-d65a-11eb-8310-e251ecd8605f.PNG)
+
+
+
 
 
 
