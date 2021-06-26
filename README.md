@@ -51,7 +51,10 @@ Selanjutnya Konfigurasi koneksi database
 Selanjutnya membuat konfigurasi untuk menghubungkan dengan database server. 
 Konfigurasi dapat dilakukan dengan du acara, yaitu pada file app/config/database.php
 atau menggunakan file .env. Pada praktikum ini kita gunakan konfigurasi pada file .env. 
+![lab12  4](https://user-images.githubusercontent.com/56400200/123498887-d55e6280-d65c-11eb-964e-50afccbf6a0b.PNG)
 
+Membuat Model
+Selanjutnya adalah membuat Model untuk memproses data Artikel. Buat file nama ArtikelModel.php
 
 
 
