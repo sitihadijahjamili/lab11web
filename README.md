@@ -93,6 +93,8 @@ detail.
 ![lab12  10 ke 2](https://user-images.githubusercontent.com/56400200/123499700-cc708f80-d662-11eb-9761-4172a500567f.png)
 ![lab12  10(1)](https://user-images.githubusercontent.com/56400200/123499720-f1650280-d662-11eb-83bf-4fdc6b2957e1.png)
 
+![lab12  11](https://user-images.githubusercontent.com/56400200/123499852-cb8c2d80-d663-11eb-8383-f449e4796a3d.PNG)
+
 
 
 
