@@ -121,6 +121,11 @@ Tambahkan fungsi/method baru pada Controller Artikel dengan nama delete().
 PRAKTIKUM 13 Lanjutan 
 
 Membuat Tabel User
+![lab13  1 ke 2](https://user-images.githubusercontent.com/56400200/124339373-edede180-db62-11eb-93b0-0f2cc89c2fbc.PNG)
+
+Kemudian Membuart file baru dengan nama UserModel.php
+
+
 
 
 
