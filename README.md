@@ -124,6 +124,11 @@ Membuat Tabel User
 ![lab13  1 ke 2](https://user-images.githubusercontent.com/56400200/124339373-edede180-db62-11eb-93b0-0f2cc89c2fbc.PNG)
 
 Kemudian Membuart file baru dengan nama UserModel.php
+![lab13  2](https://user-images.githubusercontent.com/56400200/124339425-5210a580-db63-11eb-933d-4547849c7632.PNG)
+
+Selanjutnya membuat User.php
+
+
 
 
 
