@@ -127,6 +127,8 @@ Kemudian Membuart file baru dengan nama UserModel.php
 ![lab13  2](https://user-images.githubusercontent.com/56400200/124339425-5210a580-db63-11eb-933d-4547849c7632.PNG)
 
 Selanjutnya membuat User.php
+![lab13  3](https://user-images.githubusercontent.com/56400200/124339495-b0d61f00-db63-11eb-857f-c4cd1c7ae057.PNG)
+
 
 
 
