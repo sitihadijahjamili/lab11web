@@ -38,6 +38,7 @@ lab4_layout.
 
 
 
+
 Praktikum 12 - Lanjutan Codeigniter - Pemrograman Web
 
 Langkah pertama yaitu aktifkan dahulu XAMPPnya
@@ -116,6 +117,10 @@ Tambahkan fungsi/method baru pada Controller Artikel dengan nama delete().
 
 
 
+
+PRAKTIKUM 13 Lanjutan 
+
+Membuat Tabel User
 
 
 
