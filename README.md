@@ -39,7 +39,7 @@ lab4_layout.
 
 
 
-Praktikum 12 - Lanjutan Codeigniter - Pemrograman Web
+# PRAKTIKUM 12 - Lanjutan Codeigniter - Pemrograman Web
 
 Langkah pertama yaitu aktifkan dahulu XAMPPnya
 ![lab12  1](https://user-images.githubusercontent.com/56400200/123498560-e8703300-d65a-11eb-8310-e251ecd8605f.PNG)
@@ -118,7 +118,7 @@ Tambahkan fungsi/method baru pada Controller Artikel dengan nama delete().
 
 
 
-PRAKTIKUM 13 Lanjutan 
+# PRAKTIKUM 13 Lanjutan 
 
 Membuat Tabel User
 ![lab13  1 ke 2](https://user-images.githubusercontent.com/56400200/124339373-edede180-db62-11eb-93b0-0f2cc89c2fbc.PNG)
@@ -140,11 +140,20 @@ UserSeeder.php
 Selanjutnya membuat filer untuk halaman admin. Buat file baru dengan nama Auth.php
 ![lab13  6](https://user-images.githubusercontent.com/56400200/124339700-15de4480-db65-11eb-863e-09df0164fa4a.PNG)
 
+Selanjutnya buka file app/Config/Filters.php tambahkan kode berikut:
 ![lab13  7](https://user-images.githubusercontent.com/56400200/124339807-c4828500-db65-11eb-9524-1235d8bebb63.PNG)
+Selanjutnya buka file app/Config/Routes.php dan sesuaikan kodenya.
 ![lab13  7 ke 2](https://user-images.githubusercontent.com/56400200/124339844-fdbaf500-db65-11eb-9d8e-9655363630c0.PNG)
+Buka url dengan alamat http://localhost:8080/admin/artikel ketika alamat tersebut 
+diakses maka, akan dimuculkan halaman login. 
 ![lab13  7(1)](https://user-images.githubusercontent.com/56400200/124339888-3fe43680-db66-11eb-89f6-038f69d9cdb7.PNG)
 
+Fungsi Logout
+Tambahkan method logout pada Controller User seperti berikut:
 ![lab13  8](https://user-images.githubusercontent.com/56400200/124339921-73bf5c00-db66-11eb-9573-2ced753bb442.png)
+
+![labb13  9](https://user-images.githubusercontent.com/56400200/124340029-25f72380-db67-11eb-9412-2cbb416e4786.PNG)
+
 
 
 
