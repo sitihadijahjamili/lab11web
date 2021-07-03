@@ -144,6 +144,8 @@ Selanjutnya membuat filer untuk halaman admin. Buat file baru dengan nama Auth.p
 ![lab13  7 ke 2](https://user-images.githubusercontent.com/56400200/124339844-fdbaf500-db65-11eb-9d8e-9655363630c0.PNG)
 ![lab13  7(1)](https://user-images.githubusercontent.com/56400200/124339888-3fe43680-db66-11eb-89f6-038f69d9cdb7.PNG)
 
+![lab13  8](https://user-images.githubusercontent.com/56400200/124339921-73bf5c00-db66-11eb-9573-2ced753bb442.png)
+
 
 
 
