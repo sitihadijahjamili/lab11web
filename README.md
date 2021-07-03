@@ -133,6 +133,10 @@ Selanjutnya membuat User.php
 Membuat file baru dengan nama Login.php 
 ![lab13  4](https://user-images.githubusercontent.com/56400200/124339568-41146400-db64-11eb-9cc4-00091ae817ce.PNG)
 
+UserSeeder.php
+![lab13  5](https://user-images.githubusercontent.com/56400200/124339619-9486b200-db64-11eb-87bb-ac4251d25b57.PNG)
+
+
 
 
 
