@@ -152,6 +152,7 @@ diakses maka, akan dimuculkan halaman login.
 
 Fungsi Logout
 Tambahkan method logout pada Controller User seperti berikut:
+
 ![lab13  8](https://user-images.githubusercontent.com/56400200/124339921-73bf5c00-db66-11eb-9573-2ced753bb442.png)
 
 ![labb13  9](https://user-images.githubusercontent.com/56400200/124340029-25f72380-db67-11eb-9412-2cbb416e4786.PNG)
