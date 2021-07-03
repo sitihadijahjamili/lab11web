@@ -137,6 +137,9 @@ UserSeeder.php
 ![lab13  5](https://user-images.githubusercontent.com/56400200/124339619-9486b200-db64-11eb-87bb-ac4251d25b57.PNG)
 ![lab13  5(1)](https://user-images.githubusercontent.com/56400200/124339661-d283d600-db64-11eb-91d2-463c16e1c588.PNG)
 
+Selanjutnya membuat filer untuk halaman admin. Buat file baru dengan nama Auth.php
+
+
 
 
 
