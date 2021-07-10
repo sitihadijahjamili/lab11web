@@ -182,9 +182,15 @@ pencarian sebelum deklarasi tabel
 ![lab14  5](https://user-images.githubusercontent.com/56400200/125151618-43defe00-e0fc-11eb-8441-ba2838b6f397.PNG)
 
 pada link pager ubah seperti berikut.
+
 ![lab14  6](https://user-images.githubusercontent.com/56400200/125151726-04fd7800-e0fd-11eb-845c-ac2ee7084e78.PNG)
 
 ![lab14  7](https://user-images.githubusercontent.com/56400200/125151751-45f58c80-e0fd-11eb-9262-e4d681578076.PNG)
+![lab14  7(1)](https://user-images.githubusercontent.com/56400200/125151782-7d643900-e0fd-11eb-85a8-aefb85ba972c.PNG)
+
+
+
+
 
 
 
