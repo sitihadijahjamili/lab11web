@@ -188,6 +188,9 @@ pada link pager ubah seperti berikut.
 ![lab14  7](https://user-images.githubusercontent.com/56400200/125151751-45f58c80-e0fd-11eb-9262-e4d681578076.PNG)
 ![lab14  7(1)](https://user-images.githubusercontent.com/56400200/125151782-7d643900-e0fd-11eb-85a8-aefb85ba972c.PNG)
 
+![lab14  8](https://user-images.githubusercontent.com/56400200/125151843-024f5280-e0fe-11eb-922e-f82c8d9721c2.PNG)
+
+
 
 
 
