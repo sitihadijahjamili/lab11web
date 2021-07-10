@@ -165,6 +165,10 @@ kode pada method admin_index
 
 Kemudian buka file views/artikel/admin_index.php dan tambahkan kode berikut
 dibawah deklarasi tabel data.
+![lab14  2](https://user-images.githubusercontent.com/56400200/125151424-dc747e80-e0fa-11eb-962b-4d99f2fbb950.PNG)
+
+
+
 
 
 
