@@ -169,6 +169,11 @@ dibawah deklarasi tabel data.
 
 Kemudian buka file admin.css di folder public lalu tambahkan kode berikut untuk mempercantik tampilan pagination
 ![lab14  3](https://user-images.githubusercontent.com/56400200/125151461-252c3780-e0fb-11eb-96d9-081261790ccb.PNG)
+![lab14  3(1)](https://user-images.githubusercontent.com/56400200/125151522-9f5cbc00-e0fb-11eb-935f-77cf94cbce75.PNG)
+
+Untuk membuat pencarian data, buka kembali Controller Artikel, pada method 
+admin_index
+
 
 
 
