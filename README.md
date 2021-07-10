@@ -177,6 +177,16 @@ Untuk membuat pencarian data, buka kembali Controller Artikel, pada method
 admin_index
 ![lab14  4](https://user-images.githubusercontent.com/56400200/125151578-f2367380-e0fb-11eb-8683-242b29e0736c.PNG)
 
+Kemudian buka kembali file views/artikel/admin_index.php dan tambahkan form 
+pencarian sebelum deklarasi tabel 
+![lab14  5](https://user-images.githubusercontent.com/56400200/125151618-43defe00-e0fc-11eb-8441-ba2838b6f397.PNG)
+
+pada link pager ubah seperti berikut.
+
+
+
+
+
 
 
 
