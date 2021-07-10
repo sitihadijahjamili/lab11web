@@ -157,6 +157,8 @@ Tambahkan method logout pada Controller User seperti berikut:
 
 ![labb13  9](https://user-images.githubusercontent.com/56400200/124340029-25f72380-db67-11eb-9412-2cbb416e4786.PNG)
 
+
+
 # Praktikum 14 
 
 Untuk membuat pagination, buka Kembali Controller Artikel, kemudian modifikasi 
@@ -173,6 +175,7 @@ Kemudian buka file admin.css di folder public lalu tambahkan kode berikut untuk 
 
 Untuk membuat pencarian data, buka kembali Controller Artikel, pada method 
 admin_index
+![lab14  4](https://user-images.githubusercontent.com/56400200/125151578-f2367380-e0fb-11eb-8683-242b29e0736c.PNG)
 
 
 
