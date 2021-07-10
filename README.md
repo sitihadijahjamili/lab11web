@@ -182,6 +182,8 @@ pencarian sebelum deklarasi tabel
 ![lab14  5](https://user-images.githubusercontent.com/56400200/125151618-43defe00-e0fc-11eb-8441-ba2838b6f397.PNG)
 
 pada link pager ubah seperti berikut.
+![lab14  6](https://user-images.githubusercontent.com/56400200/125151726-04fd7800-e0fd-11eb-845c-ac2ee7084e78.PNG)
+
 
 
 
