@@ -167,6 +167,10 @@ Kemudian buka file views/artikel/admin_index.php dan tambahkan kode berikut
 dibawah deklarasi tabel data.
 ![lab14  2](https://user-images.githubusercontent.com/56400200/125151424-dc747e80-e0fa-11eb-962b-4d99f2fbb950.PNG)
 
+Kemudian buka file admin.css di folder public lalu tambahkan kode berikut untuk mempercantik tampilan pagination
+![lab14  3](https://user-images.githubusercontent.com/56400200/125151461-252c3780-e0fb-11eb-96d9-081261790ccb.PNG)
+
+
 
 
 
